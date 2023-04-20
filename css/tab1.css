@@ -1,0 +1,83 @@
+.topics_title {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000000;
+  font-size: 40px;
+}
+
+.paragraph_text {
+  font-family: Helvetica, sans-serif;
+  color: #000000;
+  font-size: 15px;
+}
+
+#compactobject_img {
+  width: 400px;
+  height: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#blackhole1_img {
+  width: 280px;
+  height: 280px;
+  margin-left: 60px;
+  display: block;
+}
+
+#blackhole2_img {
+  width: 300px;
+  height: 280px;
+  margin-right: 40px;
+  display: block;
+}
+
+#estrelladeneutrones1_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
+#estrelladeneutrones2_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
+#estrelladeneutrones3_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
+
+#estrellaquarks_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
+#estructura_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
+#enanablanca_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
+#enanablanca2_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
+#enanablanca3_img {
+  width: 280px;
+  height: 200px;
+  margin-right: 90px;
+  display: block;
+}
